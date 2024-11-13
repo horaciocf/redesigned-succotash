@@ -1,0 +1,10 @@
+listar todos os números menores naturais que 10
+ e que são múltiplos de 3 ou 5, obtemos 3, 5, 6 e 9.A soma
+desses múltiplos é 23.
+Encontre a soma de todos os múltiplos de 3 ou 5
+abaixo de 10000
+resposta correta: 233168
+
+1 criar função que verifica se um número é divisível por 3 ou 5
+2 fazer um loop 3 até 999 verificando quais números divisíveis
+3 somar os números encontrados no passo 2	
