@@ -7,4 +7,5 @@ resposta correta: 233168
 
 1 criar função que verifica se um número é divisível por 3 ou 5
 2 fazer um loop 3 até 999 verificando quais números divisíveis
-3 somar os números encontrados no passo 2	
+3 somar os números encontrados no passo 2
+4 	
